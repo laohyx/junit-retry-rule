@@ -1,3 +1,14 @@
+Forked from https://github.com/kevinmost/junit-retry-rule
+But published to Maven central:
+```xml
+    <dependency>
+      <groupId>com.github.laohyx</groupId>
+      <artifactId>junit4-retry-rule</artifactId>
+      <version>0.1.0</version>
+    </dependency>
+```
+
+
 @Retry for JUnit 4
 ==================
 [![](https://jitpack.io/v/kevinmost/junit-retry-rule.svg)](https://jitpack.io/#kevinmost/junit-retry-rule)

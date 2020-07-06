@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit-retry-rule.iml" filepath="$PROJECT_DIR$/.idea/modules/junit-retry-rule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit4-retry-rule.iml" filepath="$PROJECT_DIR$/junit4-retry-rule.iml" />
     </modules>
   </component>
 </project>
